@@ -1,0 +1,30 @@
+
+body{
+    background-color: aqua;
+    background-repeat: no-repeat;
+    border: 2px solid aqua;
+    margin: 500px;
+}
+.ambi{
+    background-color: rosybrown;
+    margin-trim: 200px;
+}
+.kani{
+    background-color: seagreen;
+    padding-inline: 60px;
+}
+.dharnee{
+    padding-inline: 55px;
+}
+.a,.b,.e,.h{
+    padding-right: 133px;
+}
+.c,.f{
+    padding-right: 115px;
+}
+.d{
+    padding-right: 80px;
+}
+.g{
+    padding-right: 116px;
+}
